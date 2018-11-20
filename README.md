@@ -6,7 +6,7 @@ To assess a developer's skills in terms of developing iOS apps and decision-maki
 ## Tasks ##
 
 - Fork this repository
-- Create an iOS Swift 3 project with the following features:
+- Create an iOS Swift 3 / 4 project with the following features:
     - Loads and shows a list of Persons from a remote source
     - Caches the loaded list of Persons
     - Prevents any loading from the remote source if the cache is available
