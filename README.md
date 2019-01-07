@@ -7,6 +7,7 @@ To assess a developer's skills in terms of developing iOS apps and decision-maki
 
 - Fork this repository
 - Create an iOS Swift 3 / 4 project with the following features:
+    - Uses Model-View ViewModel Design Pattern
     - Loads and shows a list of Persons from a remote source
     - Caches the loaded list of Persons
     - Prevents any loading from the remote source if the cache is available
@@ -21,6 +22,6 @@ To assess a developer's skills in terms of developing iOS apps and decision-maki
         - Address
         - Contact person
         - Contact person's phone number
-- Make a pull request to this repository
+- Send an email once done to lowiegie.oblenida@upraxis.com
 
 Any libraries or tools of the developer's choosing may be used.
